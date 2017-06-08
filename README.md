@@ -4,14 +4,14 @@
 
 Instructions can be found [here](https://docs.google.com/document/d/12rFAE_kPxlyP0nXMtbdYgaIBaml21ZrlDtopD-krjVA).
 
-My solution can be found here [here](Task#1/stringsetbase.js).
+My solution can be found here [here](https://github.com/fredericJos/easyling/blob/master/Task%231/stringsetbase.js).
 
 
 ## Task 2 - Shapes and parsing
 
 Instructions can be found [here](https://docs.google.com/document/d/1baWbw-g3YAuou1e5Sh1I1vgpzFz9SMziJoeMDW58yM4).
 
-My implementation can be found here [here](Task#2/app/).
+My implementation can be found here [here](https://github.com/fredericJos/easyling/tree/master/Task%232).
 
 ### Remarks
 
@@ -25,7 +25,7 @@ While reviewing this app, please keep in mind that this is my first encounter wi
 $ git clone https://github.com/fredericJos/easyling.git
 ```
 
-#### 2. In terminal, navigate to [app](Task#2/app/) folder
+#### 2. In terminal, navigate to [app](https://github.com/fredericJos/easyling/tree/master/Task%232/app) folder
 
 #### 3. Download packages:
 
